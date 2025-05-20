@@ -6,3 +6,5 @@ Ce fichier CSV sera ensuite nettoyé, et on y rajoutera à l'aide de GeoPy les c
 Une fois le fichier crée, vous n'avez plus besoin de toucher au fichier Exercice1.py
 
 3) Lancer le fichier app.py avec Streamlib (Streamlib run app.py) OU aller sur https://paulcza-exom2-app-auelpm.streamlit.app/ (L'affichage peut être bugué au premier affichage, il suffit de refresh)
+
+DOC A COMPLETER POUR VENDREDI
