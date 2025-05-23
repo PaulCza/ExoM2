@@ -128,7 +128,7 @@ df_cleaned.to_csv(csv_file_path, index=False)
 #Début de la géocodification
 
 # utilisation de Geocode (clé api pas liée à un paiement donc osef)
-geolocator = OpenCage("9f92dd12661847e89ff4e912fa43b72b")  # Replace with your OpenCage API key
+geolocator = OpenCage("9f92dd12661847e89ff4e912fa43b72b") 
 
 # lecture du fichier CSV
 df_cleaned = pd.read_csv(csv_file_path)
