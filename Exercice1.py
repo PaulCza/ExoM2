@@ -96,7 +96,7 @@ for i in coordonnees:
     details.append(detail)
 
 # création du fichier CSV
-csv_file_path = '/home/aqualys/Téléchargements/Progra/details.csv'
+csv_file_path = './details.csv'
 
 with open(csv_file_path, mode='w', newline='', encoding='utf-8') as csvfile:
     fieldnames = ['Nom', 'Adresse', 'Telephone', 'Acces', 'Site', 'Twitter', 'Facebook', 'Linkedin']
